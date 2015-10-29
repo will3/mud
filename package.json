@@ -1,0 +1,14 @@
+{
+  "name": "mud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Zhou <will3.git@gmail.com> (http://github.com/will3)",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^1.17.2"
+  }
+}
